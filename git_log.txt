@@ -1,0 +1,83 @@
+commit 829e601ebaff31d5e4c6df5c5983a86415810275
+Merge: f37cdce dc3c153
+Author: NickTee <98784630+NiqTee@users.noreply.github.com>
+Date:   Fri Feb 7 11:09:05 2025 -0800
+
+    Merge pull request #1 from NiqTee/Feature-about-me
+    
+    Feature about me update
+
+commit dc3c1530160ce7bc2b8d752157b9587a7765d603
+Merge: 294bc96 f37cdce
+Author: NickTee <98784630+NiqTee@users.noreply.github.com>
+Date:   Fri Feb 7 11:08:54 2025 -0800
+
+    Merge branch 'main' into Feature-about-me
+
+commit 294bc96350572c6785e3daa198ce053fc4e02c13
+Author: NickTee <nick.trigueros21@gmail.com>
+Date:   Fri Feb 7 10:49:26 2025 -0800
+
+    updated index.html in "feature about me branch"
+    
+    Updated index.html in "feature about me branch"
+
+commit 88bac8ffd4730b7a47170c9ec5b3f8cbf7a93390
+Author: NickTee <nick.trigueros21@gmail.com>
+Date:   Fri Feb 7 10:33:38 2025 -0800
+
+    updated index.html in "feature about me branch"
+    
+    Updated index.html in "feature about me branch"
+
+commit cbfea04414759f87a47f4015cecdef1c00e44a16
+Merge: f37cdce 4ddf56b
+Author: NickTee <nick.trigueros21@gmail.com>
+Date:   Fri Feb 7 10:31:16 2025 -0800
+
+    On main: !!GitHub_Desktop<Feature-about-me>
+
+commit 4ddf56b6ac11a3cef417696dff98300fb291c35c
+Author: NickTee <nick.trigueros21@gmail.com>
+Date:   Fri Feb 7 10:31:16 2025 -0800
+
+    index on main: f37cdce Replicate assignment-1 index
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
